@@ -2,4 +2,4 @@
 - Obed Ehoneah
 - James Nzioka
 - Biniyam Ambachew
-- Lidiya Endale
+- [Lidiya Endale]
