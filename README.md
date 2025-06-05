@@ -1,5 +1,5 @@
- Names of contributors
+ [Names of contributors]
 - Obed Ehoneah
 - James Nzioka
 - Biniyam Ambachew
-- [Lidiya Endale]
+- Lidiya Endale
